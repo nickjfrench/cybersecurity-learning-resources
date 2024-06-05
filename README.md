@@ -4,7 +4,7 @@ Collection of learning resources for Cybersecurity. This isn't the best list, it
 ## Other People's Collections
 - [seal9055's resource list](https://github.com/seal9055/resources)
 
-## Courses
+## Exploit Development
 - https://ost.fyi/Home.html
 - https://guyinatuxedo.github.io/
 - https://pwn.college/
