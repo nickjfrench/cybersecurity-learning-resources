@@ -12,3 +12,4 @@ Collection of learning resources for Cybersecurity. This isn't the best list, it
 
 ## Articles
 - https://dayzerosec.com/blog/2021/02/02/getting-started.html
+  - First of a three-part series: https://dayzerosec.com/tags/ctf-to-real-world/
