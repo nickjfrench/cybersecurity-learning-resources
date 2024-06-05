@@ -9,3 +9,6 @@ Collection of learning resources for Cybersecurity. This isn't the best list, it
 - https://guyinatuxedo.github.io/
 - https://pwn.college/
 - https://maldevacademy.com/
+
+## Articles
+- https://dayzerosec.com/blog/2021/02/02/getting-started.html
